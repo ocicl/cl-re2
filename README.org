@@ -4,6 +4,6 @@ A linear-time, RE2-compatible regular-expression engine for Common Lisp.
 
 |---------+--------------------------------------+
 | source  | git:https://github.com/atgreen/cl-re2.git |
-| commit  | 6290600                              |
+| commit  | a6ddb92                              |
 | systems | cl-re2                               |
 |---------+--------------------------------------+
